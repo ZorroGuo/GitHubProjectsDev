@@ -3,7 +3,7 @@ package cn.zorroguo.util;
 /**
  * UtilTools.java
  * <p>
- * Created on 2013-1-16
+ * Created on 2013-1-16  工具专用类
  * Modification history
  * <p>
  * @author   Shaoqing Guo,guoshaoqing1987@126.com
